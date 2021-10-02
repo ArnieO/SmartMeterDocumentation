@@ -9,7 +9,7 @@ This is a collection of documents related to the HAN (Home Area Network) port on
 | --- | --- | --- |
 | Norway | [Noregs vassdrags- og energidirektorat](http://www.nve.no)| Unclear regulatory situation. [This document](https://github.com/ArnieO/SmartMeterDocumentation/raw/main/Norway/NEK%20AMS%20HAN.pdf) describes the physical interface requirements but not the protocol. Please see each supplier's interface specification [here](https://github.com/ArnieO/SmartMeterDocumentation/tree/main/Norway).   |
 | Sweden | [Energimarknadsinspektionen](https://www.ei.se) | [Ei-R2017:08](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Sweden/Funktionskrav-p%C3%A5-elm%C3%A4tare-F%C3%B6rfattningsf%C3%B6rslag-Ei-R2017-08.pdf) |
-| Denmark |
+| Denmark | [Energistyrelsen](https://ens.dk) | |
 
 ## HAN interface description
 The table shows the interface as seen on the meter.
