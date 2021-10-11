@@ -7,7 +7,8 @@ This is a collection of documents related to the HAN (Home Area Network) port on
 ## National technical requirements
 | Country | National authority | Specification document |
 | --- | --- | --- |
-| Norway | [Noregs vassdrags- og energidirektorat](http://www.nve.no)| [This document](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Norway/NVE%20201603186-1-informasjon-til-kundene-via-han-grensesnittet-i-ams-m%C3%A5leren-obis-koder-1772408_1124902_0.pdf) approves the recommendation in [this document].| Sweden | [Energimarknadsinspektionen](https://www.ei.se) | [Ei-R2017:08](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Sweden/Funktionskrav-p%C3%A5-elm%C3%A4tare-F%C3%B6rfattningsf%C3%B6rslag-Ei-R2017-08.pdf) |
+| Norway | [Noregs vassdrags- og energidirektorat](http://www.nve.no)| [This document](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Norway/NVE%20201603186-1-informasjon-til-kundene-via-han-grensesnittet-i-ams-m%C3%A5leren-obis-koder-1772408_1124902_0.pdf) approves the recommendation in [this document].|
+| Sweden | [Energimarknadsinspektionen](https://www.ei.se) | [Ei-R2017:08](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Sweden/Funktionskrav-p%C3%A5-elm%C3%A4tare-F%C3%B6rfattningsf%C3%B6rslag-Ei-R2017-08.pdf) |
 | Denmark | [Energistyrelsen](https://ens.dk) | |
 
 ## HAN interface description
