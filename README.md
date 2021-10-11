@@ -2,7 +2,7 @@
 Document collection: HAN interface for Smart energy meters in European countries
 
 ## Introduction
-This is a collection of documents related to the HAN (Home Area Network) port on Smart energy meters ("Smart meters") in some European countries. 
+This is a collection of documents related to the HAN (Home Area Network) port on Smart energy meters ("Smart meters") in some European countries. The information is edited to the best of my knowledge, but in some case solid information is hard to find - so there might be errors. Please contact me (rise an "issue" here!) if you see errors or misunderstandings.
 
 ## National technical requirements
 | Country | National authority | Specification document |
