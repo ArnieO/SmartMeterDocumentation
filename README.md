@@ -49,3 +49,5 @@ The following Danish grid companies have been reported (autumn 2021) to be using
 - [Nord Energi](https://nordenerginet.dk/) [^3]
 - (Unknown grid company, and I do not recall where I read it...)
 [^3]: https://github.com/gskjold/AmsToMqttBridge/issues/126#issuecomment-944068744
+
+Useful page for Denmark, giving a geographic overview of the grid companies: https://www.danskenergi.dk/vejledning/nettilslutning/find-netselskab
