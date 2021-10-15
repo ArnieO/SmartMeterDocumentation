@@ -26,5 +26,13 @@ The table shows the interface as seen on the meter.
 [^3]: Reference: [Dutch Smart Meter Requirements, P1 Companion Standard](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Netherlands/DSMR_P1CompanionStandard_v5.0.2_26feb2016.pdf)
 [^4]: As the standard in Netherlands has evolved a  over the years, there seems to be a number of varieties installed as reported by [http://domoticx.com/p1-poort-slimme-meter-hardware/ (Google-translated to English)](https://domoticx-com.translate.goog/p1-poort-slimme-meter-hardware/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=nui)
 
-## National issues
+## National issues / specificities
 ### Norway
+Three meter brands are used, chosen by the grid company:
+- Aidon
+- Kaifa
+- Kamstrup
+Smart meters delivered in Norway must follow the NVE specification indicated in above tables.
+The juridical interface (where grid company responsibility ends and user responsibility starts) is the RJ45 connector.
+Kamstrup meters do not have built-in HAN interface, they must be equipped with the [Kamstrup HAN-NVE module](https://github.com/ArnieO/SmartMeterDocumentation/raw/main/Norway/Kamstrup/Kamstrup%20HAN-NVE%20Module%20data%20sheet.pdf). Some grid companies deliver this module pre installed with the meter, other grid companies mails the module to users that request the HAN port to be opened, user then installs it. 
+HAN port is by default inactive, users must request opening.
