@@ -25,3 +25,6 @@ The table shows the interface as seen on the meter.
 [^2]: The first smart meters installed in Sweden follows the "Norwegian standard" as defined by NVE (MBUS, RJ45 connector). It is unclear whether, and if so when, those meters will be replaced by meters following the Swedish standard described here.
 [^3]: Reference: [Dutch Smart Meter Requirements, P1 Companion Standard](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Netherlands/DSMR_P1CompanionStandard_v5.0.2_26feb2016.pdf)
 [^4]: As the standard in Netherlands has evolved a  over the years, there seems to be a number of varieties installed as reported by [http://domoticx.com/p1-poort-slimme-meter-hardware/ (Google-translated to English)](https://domoticx-com.translate.goog/p1-poort-slimme-meter-hardware/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=nui)
+
+## National issues
+### Norway
