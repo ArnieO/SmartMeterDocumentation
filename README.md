@@ -40,7 +40,7 @@ HAN port is by default inactive, users must request opening.
 The first smart meters installed in Sweden follows the "Norwegian standard" as defined by NVE (MBUS, RJ45 connector). It is unclear whether, and if so when, those meters will be replaced by meters following the Swedish regulatory specification described in above tables.
 
 ### Denmark
-Denmark seems to be 100% Kamstrup meters with encrypted HAN ports.
+In Denmark, the majority of grid companies seem to use Kamstrup meters with encrypted HAN ports.
 
 According to [user findings reported here](https://www.ihc-user.dk/forum/forums/topic/7467-kamstrup-elm%C3%A5lere/?do=findComment&comment=58737), some meters seem to have old firmware where data must be pulled from the meter using "Kamstrup proprietary protocol", which is not openly available. This seems to be in breach of the requirement set down in §7 in [BEK nr 75 af 25/01/2019](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Denmark/B20190007505.pdf) that requires open standards: <br/> 
 ![image](https://user-images.githubusercontent.com/10295178/137465380-2e3394b5-ebd8-44ce-a304-a350b0c3ff52.png)
