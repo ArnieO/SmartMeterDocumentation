@@ -30,6 +30,7 @@ Three meter brands are used, chosen by the grid company:
 - Aidon
 - Kaifa
 - Kamstrup
+- Landis Gyr (introduced after the initial rollout)
 
 Smart meters delivered in Norway must follow the NVE specification indicated in above tables.
 The juridical interface (where grid company responsibility ends and user responsibility starts) is the RJ45 connector.
