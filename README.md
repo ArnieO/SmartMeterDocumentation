@@ -26,7 +26,7 @@ The table shows the interface as seen on the meter.
 
 ## National issues / specificities
 ### Norway
-Three meter brands are used, chosen by the grid company:
+Four meter brands are used, chosen by the grid company:
 - Aidon
 - Kaifa
 - Kamstrup
@@ -36,6 +36,7 @@ Smart meters delivered in Norway must follow the NVE specification indicated in 
 The juridical interface (where grid company responsibility ends and user responsibility starts) is the RJ45 connector.
 Kamstrup meters do not have built-in HAN interface, they must be equipped with the [Kamstrup HAN-NVE module](https://github.com/ArnieO/SmartMeterDocumentation/raw/main/Norway/Kamstrup/Kamstrup%20HAN-NVE%20Module%20data%20sheet.pdf). Some grid companies deliver this module pre installed with the meter, other grid companies mails the module to users that request the HAN port to be opened, user then installs it. 
 HAN port is by default inactive, users must request opening.
+Landis Gyr meters are equipped with a "EmbriQ Politerm801 PLC" module, which provides the NVE-HAN interface with RJ45 connector. EmbriQ has confirmed the electrical specification for the interface is as per paragraph 4.1 in [this document](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Norway/Landis%20Gyr/OP030a%20Montasjeinstruks%20og%20brukerveiledning.pdf).
 
 ### Sweden
 The first smart meters installed in Sweden follows the "Norwegian standard" as defined by NVE (MBUS, RJ45 connector). It is unclear whether, and if so when, those meters will be replaced by meters following the Swedish regulatory specification described in above tables.
