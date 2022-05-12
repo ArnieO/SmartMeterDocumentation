@@ -49,7 +49,7 @@ According to [user findings reported here](https://www.ihc-user.dk/forum/forums/
 
 The following Danish grid companies have been reported (autumn 2021) to be using (some) Kamstrup meters that require data to be pulled using "Kamstrup proprietary protocol". They seem to prefer replacing the meters with new ones in stead of requesting Kamstrup to upgrade firmware on existing meters.:
 - [Nord Energi](https://nordenerginet.dk/) [^3]
-- (Unknown grid company, and I do not recall where I read it...)
+- [Elinord](https://www.elinord.dk/)
 [^3]: https://github.com/gskjold/AmsToMqttBridge/issues/126#issuecomment-944068744
 
 Useful page for Denmark, giving a geographic overview of the grid companies: https://www.danskenergi.dk/vejledning/nettilslutning/find-netselskab
