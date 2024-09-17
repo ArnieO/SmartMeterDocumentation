@@ -12,6 +12,8 @@ This is a collection of documents related to the HAN (Home Area Network) port on
 | Denmark     | [Energistyrelsen](https://ens.dk)                         | [Målerbekendtgørelse BEK nr 563 af 02/06/2014](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Denmark/B20140056305.pdf)<br/>[Målerbekendtgørelse BEK nr 75 af 25/01/2019](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Denmark/B20190007505.pdf)                                                                    |
 | Netherlands | [Netbeheer Nederland](https://www.netbeheernederland.nl)  | [Dutch Smart Meter Requirements v4.0.7 14mar2014](https://github.com/ArnieO/SmartMeterDocumentation/blob/main/Netherlands/DutchSmartMeterRequirements_v4.0.7_14mar2014.pdf)                                                                                                                                                                     |
 | Finland     | [Energiavirasto](https://energiavirasto.fi/) | [Suositus sähköenergiamittareiden paikallista asiakasrajapintaa varten](https://sesko.fi/wp-content/uploads/2022/12/Suositus-SK-13-1_H1-asiakasrajapinta_suomenkielinen_2022-12-13.pdf)                                                                                                                                                                     |
+| Germany     | [Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de) | [Smart-Meter-Gateway](https://www.bsi.bund.de/dok/7612230)<br/>[Technische Richtlinie (BSI-TR-03109-1)](https://www.bsi.bund.de/dok/7614914)
+|
 
 ## HAN interface description
 The table shows the interface as seen on the meter.
